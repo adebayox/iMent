@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".onboard1"
+    android:background="@drawable/onboard1">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NEXT"
+        android:textSize="16sp"
+        android:layout_marginHorizontal="6dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/button_bg"
+        android:paddingHorizontal="35dp"
+        android:id="@+id/btnnxt"
+        android:layout_marginBottom="8dp"
+        android:textColor="@color/white"/>
+
+</RelativeLayout>
