@@ -5,11 +5,18 @@
       <map>
         <entry key="app/src/main/res/drawable-v24/button_bg.xml" value="0.1" />
         <entry key="app/src/main/res/drawable-v24/onb_bg.xml" value="0.22962962962962963" />
-        <entry key="app/src/main/res/layout/activity_focus.xml" value="0.18432971014492755" />
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.259375" />
+        <entry key="app/src/main/res/drawable/button_sheet_background.xml" value="0.259375" />
+        <entry key="app/src/main/res/drawable/transparent_background.xml" value="0.259375" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/activity_focus.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_onboard1.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_onboard2.xml" value="0.18432971014492755" />
+        <entry key="app/src/main/res/layout/activity_therapist_profile.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/tv_entity.xml" value="0.11195542046605876" />
       </map>
     </option>
   </component>
