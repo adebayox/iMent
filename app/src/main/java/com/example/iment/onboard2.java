@@ -18,7 +18,7 @@ public class onboard2 extends AppCompatActivity {
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(onboard2.this, Login.class));
+                startActivity(new Intent(onboard2.this, Signup.class));
 
             }
         });
