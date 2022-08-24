@@ -18,7 +18,7 @@ public class therapist_profile extends AppCompatActivity {
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(therapist_profile.this, chat_activity.class));
+                startActivity(new Intent(therapist_profile.this, payment.class));
 
             }
         });

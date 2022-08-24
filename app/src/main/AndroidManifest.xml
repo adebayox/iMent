@@ -8,10 +8,16 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:usesCleartextTraffic="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.IMent">
+        android:theme="@style/Theme.IMent"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".checkout"
+            android:exported="false" />
+        <activity
+            android:name=".payment"
+            android:exported="false" />
         <activity
             android:name=".Signup"
             android:exported="false" />
